@@ -783,3 +783,6 @@ code {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+.blog-post-comments {
+    margin-top: 50px;
+}
