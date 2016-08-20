@@ -82,4 +82,8 @@
     $('.image-link').fancybox();
   }
 
+  
+
+
 })(jQuery);
+
